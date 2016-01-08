@@ -1,5 +1,5 @@
-# mustache-test
-Esto es para ayudar a la cata a diseñar con mustache!
+# deldichoalhecho-express
+Esto es para ayudar a diseñar con mustache!
 
 
 Hola @camargozzini este proyecto es para que diseñes utilizando [https://mustache.github.io/](mustache) para el templeteo.
@@ -22,7 +22,7 @@ http://localhost:3000
 
 
 ## Los archivos relevantes son:
-* ```views/index.mustache``` es el archivo de html.
-* ```routes/json/data.json``` son los datos que se van a diseñar.
+* ```views/*.mustache``` son los templates o archivos que se desplegarán.
+* ```routes/json/data.json``` son los datos que se van a diseñar. Si tienes una instancia en http://sas.deldichoalhecho.cl puedes obtener tus datos desde por ejemplo http://tuinstancia.sas.deldichoalhecho.cl/data.json.
 
 Saludos
